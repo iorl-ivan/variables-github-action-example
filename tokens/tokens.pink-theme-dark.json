@@ -633,20 +633,7 @@
             }
         },
         "radio-button": {
-            "corner-radius": {
-                "$type": "number",
-                "$value": "{Radius.rounded}",
-                "$description": "",
-                "$extensions": {
-                    "com.figma": {
-                        "hidden-from-publishing": false,
-                        "scopes": [
-                            "CORNER_RADIUS"
-                        ],
-                        "code-syntax": {}
-                    }
-                }
-            },
+ 
             "idle": {
                 "background": {
                     "$type": "color",
